@@ -1,0 +1,14 @@
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Erro!
+--- Controle de veículos ---
+78582939180/K(4789)
+14659332629/U(3654)
+23658895290/O(2525)
+66584581700/C(1200)

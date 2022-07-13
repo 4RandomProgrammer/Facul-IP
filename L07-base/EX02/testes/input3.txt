@@ -1,0 +1,10 @@
+5
+M X M M M
+M M M M M
+M M M X M
+X M M M M
+M M M M M
+3
+4 1
+1 2
+3 4

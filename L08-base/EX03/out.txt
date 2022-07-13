@@ -1,0 +1,9 @@
+Opção inválida!
+Opção inválida!
+Opção inválida!
+Erro!
+Erro!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+--- Controle de veículos ---
+78582817493/O(1212)

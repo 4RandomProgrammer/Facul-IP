@@ -1,0 +1,9 @@
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo devolvido com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+--- Controle de veículos ---
+45592929294/O(7896)
+84858393741/O(1254)

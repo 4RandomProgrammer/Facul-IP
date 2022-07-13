@@ -1,0 +1,7 @@
+Erro!
+Veículo cadastrado com sucesso!
+Erro!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo devolvido com sucesso!
+--- Controle de veículos ---

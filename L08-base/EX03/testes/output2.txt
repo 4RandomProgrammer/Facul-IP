@@ -1,0 +1,10 @@
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Veículo devolvido com sucesso!
+Veículo emprestado com sucesso!
+--- Controle de veículos ---
+47896325533/C(8745)

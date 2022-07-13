@@ -1,0 +1,7 @@
+Quantos simbolos errados.
+2 Q
+2 s
+2 e
+2 x
+6
+0

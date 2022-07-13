@@ -1,0 +1,4 @@
+Test.Email+alex@ufscar.br
+test.e.mail+bob.cathy@ufscar.br
+test.e.mail.bob@ufscar.br
+testemail+david@ufs.car.br

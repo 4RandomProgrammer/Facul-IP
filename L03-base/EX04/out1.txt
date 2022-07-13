@@ -1,0 +1,3 @@
+o arquivo 5 foi excluído.
+o arquivo 6 foi excluído.
+o arquivo 7 foi excluído.

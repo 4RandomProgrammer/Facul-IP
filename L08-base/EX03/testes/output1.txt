@@ -1,0 +1,15 @@
+Opção inválida!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Erro!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+--- Controle de veículos ---
+65896321452/C(1236)
+36547896312/U(7896)
+78966244223/C(1254)
+12547879633/C(4789)

@@ -1,0 +1,4 @@
+o arquivo 1 foi excluído.
+o arquivo 2 foi excluído.
+o arquivo 3 foi excluído.
+o arquivo 4 foi excluído.

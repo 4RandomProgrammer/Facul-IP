@@ -1,0 +1,2 @@
+senha inválida!
+senha forte!

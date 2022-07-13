@@ -1,0 +1,12 @@
+Água!
+Embarcação atingida!
+Embarcação atingida!
+Embarcação atingida!
+Embarcação atingida!
+Embarcação atingida!
+Água!
+Navio: P - Dano: 80.00%
+Navio: N - Dano: 75.00%
+Navio: C - Dano: 66.67%
+Navio: S - Dano: 66.67%
+Navio: D - Dano: 50.00%

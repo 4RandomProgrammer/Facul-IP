@@ -1,0 +1,11 @@
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Erro!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo devolvido com sucesso!
+Veículo emprestado com sucesso!
+--- Controle de veículos ---
+77569845625/K(1268)
+55632412348/C(7896)

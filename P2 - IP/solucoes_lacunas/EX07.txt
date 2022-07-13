@@ -1,0 +1,13 @@
+skywalker:
+	intercala entre os numeros do RA e da data de aniversario;
+	Ex:
+		vetor[0] = primeiro digito do RA; 
+		vetor[1] = primeiro digito do aniversario;
+		vetor[2] = segundo digito do RA; 
+		vetor[3] = segundo digito do aniversario;
+		
+kenobi:
+	ordena o vetor;
+	
+vader:
+	separa o vetor em numeros impares e pares, trocando os pares da esquerda com os impares da direita do vetor ate que eles estejam organizados

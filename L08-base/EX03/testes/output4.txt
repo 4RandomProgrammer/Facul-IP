@@ -1,0 +1,7 @@
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Erro!
+Opção inválida!
+Erro!
+--- Controle de veículos ---
+77589632102/O(5632)

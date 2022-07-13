@@ -1,0 +1,12 @@
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo cadastrado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Veículo emprestado com sucesso!
+Erro!
+Erro!
+--- Controle de veículos ---
+45648458229/C(7456)
+58458529393/O(2145)
+44858593629/K(9874)

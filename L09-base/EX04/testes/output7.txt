@@ -1,0 +1,12 @@
+Água!
+Água!
+Água!
+Água!
+Água!
+Água!
+Água!
+Navio: P - Dano: 100.00%
+Navio: N - Dano: 100.00%
+Navio: C - Dano: 100.00%
+Navio: S - Dano: 100.00%
+Navio: D - Dano: 100.00%
